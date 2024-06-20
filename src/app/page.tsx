@@ -20,10 +20,10 @@ export default function Home() {
         </Button>
       </nav>
 
-      <div className="flex gap-5 flex-col md:flex-row items-center justify-center min-h-[60vh]">
+      <div className="flex md:gap-5 flex-col md:flex-row items-center justify-center md:min-h-[60vh]">
         {/* <div className="relative z-[-1] flex justify-center bg-green-300 w-full "> */}
         <Image
-          className="w-full"
+          // className="w-full"
           src="/logo.png"
           alt="Master Bakers Logo"
           width={350}
