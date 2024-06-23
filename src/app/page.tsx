@@ -14,10 +14,55 @@ export default function Home() {
   return (
     <main className="flex h-screen flex-col items-center justify-between">
       <nav className="flex container justify-between items-center md:text-2xl pt-4">
-        <div>MasterBakers</div>
-        <Button  className="md:text-lg rounded-md">
-          Register Today
-        </Button>
+        <Dialog>
+          <DialogTrigger asChild>
+            <Button className="md:text-lg rounded-md">Our Objectives</Button>
+          </DialogTrigger>
+          <DialogContent className="max-h-[60vh] overflow-y-scroll app-scrollbar">
+            <DialogHeader>
+              <DialogTitle>
+                The Objectives of the Master Bakers Challenge in India :
+              </DialogTitle>
+            </DialogHeader>
+            <ul className="list-inside list-disc">
+              <li>
+                Celebrate and elevate the art of baking by recognizing and
+                rewarding exceptional talent.
+              </li>
+              <li>
+                Enhance the quality and diversity of baked goods available to
+                consumers in India.
+              </li>
+              <li>
+                Inspire aspiring bakers to pursue their passion and improve
+                their skills.
+              </li>
+              <li>
+                Foster a spirit of competition and innovation among bakers.
+              </li>
+              <li>Encourage bakers to showcase their skills and creativity.</li>
+              <li>
+                Offer media exposure and networking opportunities for
+                participants.
+              </li>
+              <li>
+                Uplift the baking community and set high standards in the
+                industry.
+              </li>
+              <li>
+                Provide a platform for professional growth and career
+                advancement.
+              </li>
+            </ul>
+          </DialogContent>
+        </Dialog>
+        <Link
+          href={
+            "https://drive.google.com/drive/folders/1_6vXqBlyR7QJhptqXsukCzpHEKOE5RdM?usp=drive_link"
+          }
+        >
+          <Button className="md:text-lg rounded-md">Register Today</Button>
+        </Link>
       </nav>
 
       <div className="flex md:gap-5 flex-col md:flex-row items-center justify-center md:min-h-[60vh]">
@@ -34,9 +79,7 @@ export default function Home() {
             Master Bakers <br /> Challenge India 2024
           </h1>
           <h4 className="font-bold  mt-2">5th & 6th August 2024</h4>
-          <h4 className="">
-            India Expo Centre & Mart, Greater Noida, NCR
-          </h4>
+          <h4 className="">India Expo Centre & Mart, Greater Noida, NCR</h4>
         </div>
       </div>
 
@@ -71,20 +114,19 @@ export default function Home() {
               <br />
               <br />
               <p>
-
-              One of the key highlights of IHExpo 2024 is the diverse
-              participant profile, which includes CEOs, purchase heads, project
-              management companies, and other decision-makers in the hospitality
-              sector. This makes it an ideal venue for building business
-              relationships and exploring new opportunities. For more detailed
-              information, you can visit{" "}
-              <Link
-                href="https://ihexpo.com/visitor-registration"
-                className="inline text-blue-400"
+                One of the key highlights of IHExpo 2024 is the diverse
+                participant profile, which includes CEOs, purchase heads,
+                project management companies, and other decision-makers in the
+                hospitality sector. This makes it an ideal venue for building
+                business relationships and exploring new opportunities. For more
+                detailed information, you can visit{" "}
+                <Link
+                  href="https://ihexpo.com/visitor-registration"
+                  className="inline text-blue-400"
                 >
-                the IHExpo official website
-              </Link>
-                </p>
+                  the IHExpo official website
+                </Link>
+              </p>
             </DialogContent>
           </Dialog>
           <Dialog>
@@ -134,14 +176,16 @@ export default function Home() {
                 Subscription Information
               </h3>
               <p>
-
-              Bakery Review is available for digital subscription, offering
-              instant access to its rich content. It is also available as part
-              of the Magzter GOLD subscription, providing access to over 9,000
-              magazines and newspapers. For more information, you can visit {" "}
-              <Link href={"https://www.hammer.co.in"} className="text-blue-400">
-              www.hammer.co.in
-              </Link>
+                Bakery Review is available for digital subscription, offering
+                instant access to its rich content. It is also available as part
+                of the Magzter GOLD subscription, providing access to over 9,000
+                magazines and newspapers. For more information, you can visit{" "}
+                <Link
+                  href={"https://www.hammer.co.in"}
+                  className="text-blue-400"
+                >
+                  www.hammer.co.in
+                </Link>
               </p>
             </DialogContent>
           </Dialog>
