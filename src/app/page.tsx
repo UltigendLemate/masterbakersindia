@@ -9,9 +9,11 @@ import {
   DialogTrigger,
 } from "@/components/ui/dialog";
 import Link from "next/link";
+import Contact from "@/components/Contact";
 
 export default function Home() {
   return (
+    <>
     <main className="flex h-screen flex-col items-center justify-between">
       <nav className="flex container justify-between items-center md:text-2xl pt-4">
         <Dialog>
@@ -192,5 +194,8 @@ export default function Home() {
         </div>
       </div>
     </main>
+    <Contact/>
+    </>
+
   );
 }
