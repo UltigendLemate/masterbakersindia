@@ -13,6 +13,7 @@ import Link from "next/link";
 import Contact from "@/components/Contact";
 import Jury from "@/components/Jury";
 import Sponsors from "@/components/Sponsors";
+import Participants from "@/components/Participants";
 
 export default function Home() {
   return (
@@ -207,8 +208,9 @@ export default function Home() {
           </div>
         </div>
       </main>
-      {/* <Sponsors/> */}
-      {/* <Jury /> */}
+      <Jury />
+      <Participants/>
+      <Sponsors/>
       <Contact />
     </>
   );
