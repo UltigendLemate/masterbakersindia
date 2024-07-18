@@ -86,7 +86,7 @@ export default function Home() {
             <h1 className="heading md:text-6xl text-4xl text-primary">
               Master Bakers <br /> Challenge India 2024
             </h1>
-            <h4 className="font-bold  mt-2">6th August 2024</h4>
+            <h4 className="font-bold  mt-2">5th August 2024</h4>
             <h4 className="">India Expo Centre & Mart, Greater Noida, NCR</h4>
           </div>
         </div>
