@@ -48,6 +48,18 @@ const Participants = () => {
       desc: "Bidur Kumar Mahapatra, a dedicated culinary enthusiast, currently works for Azzure Hospitality Pvt. Ltd. With a B.Sc. in Hospitality and Hotel Administration from Chitkara School of Hospitality, he has honed his skills through hands-on experience, including a 12-week industrial training at JW Marriott Chandigarh. An award-winning participant in Vancouver Island University's True Colors and Resolution for Hospitality, Bidur has also showcased his culinary talent in various competitions, including the Chef of the Year competition. Passionate about food production and service, Bidur is also a food blogger and content creator on Instagram, sharing his culinary journey through engaging food reels.",
     },
     {
+      img1: "/pp/16.png",
+      img2: "/pp/17.png",
+      name: "Ajendra Singh",
+      desc: "Ajendra Singh is a highly skilled Senior Sous Chef at Sandal Suites, Noida, with over 15 years of experience in culinary excellence. He has honed his craft at renowned establishments such as The Westin Gurgaon and Pullman Central Park, Gurgaon. Ajendra's expertise in bakery and pastry, along with his meticulous approach to kitchen operations and menu planning, sets him apart. Awarded a Silver Medal in Petit Fours or Pralines at AAHAR Culinary Art India 2023, Ajendra is a distinguished chef whose creativity and dedication make him a formidable contender in the Master Bakers Challenge.",
+    },
+    {
+      img1: "/pp/4.png",
+      img2: "/pp/5.png",
+      name: "Chandra Pratap Singh",
+      desc: "Chandra Pratap Singh brings over a decade of experience to the Master Bakers Challenge, honed at prestigious establishments such as Sheraton Hyderabad, Courtyard by Marriott Gurgaon, and Radisson Blu. With a Diploma in Hotel Management from Amrapali Institute, Chandra has excelled in roles including Commi and Demi Chef De Partie. Currently serving as a Demi Chef De Partie at Radisson Blu MBD Noida, he is skilled in maintaining high standards of cleanliness, managing inventory, and crafting a wide range of desserts, including specialty and sugar-free options, all while adhering to USPH and HACCP standards. His commitment to excellence and innovative baking techniques make him a standout competitor in the challenge.",
+    },
+    {
       img1: "/pp/2.png",
       img2: "/pp/3.png",
       name: "Anushka Madaan",
