@@ -22,9 +22,9 @@ const Organizer = (props : Props) => {
     
   return (
     <div className="max-w-xs md:max-w-xl  mb-5 sm:mb-0 mx-auto p-2 sm:p-5 shadow-xl  bg-white rounded-xl">
-    <div className="flex w-full  h-32 sm:h-36 justify-center">
-        <Link href={props.link}>
-      <img src={props.img} alt="Image1" className={`w-80 p-4 ${props.img.includes('ihe.jpg') && "bg-gray-600"}`} />
+    <div className="flex w-full  h-32 sm:h-36 justify-center items-end">
+        <Link href={props.link} className=''>
+      <img src={props.img} alt="Image1" className={`w-80 ${props.img.includes('ihe.jpg') && "bg-gray-600"}`} />
       </Link>
     </div> <div className="p-4">
         <p className='line-clamp-3 text-black'>{props.text}</p>

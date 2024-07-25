@@ -1,4 +1,4 @@
-'use client'
+"use client";
 import { Button } from "@/components/ui/button";
 import Image from "next/image";
 import {
@@ -83,11 +83,18 @@ export default function Home() {
             height={350}
           />
           <div className="text-center md:text-2xl md:-mt-5">
+            <div className="text-center">
+              <img src="sigma.png" className="h-20 mx-auto w-auto bg-whit p-2"/>
+              <span className="text-base my-1 font-semibold">Presents</span>
+            </div>
             <h1 className="heading md:text-6xl text-4xl text-primary">
               Master Bakers <br /> Challenge India 2024
             </h1>
             <h4 className="font-bold  mt-2">5th August 2024</h4>
             <h4 className="">India Expo Centre & Mart, Greater Noida, NCR</h4>
+            <div className="text-lg mt-5 font-semibold">
+              Powered By <img src="dkg.jpg" className="h-10 w-auto inline ml-3" alt="" />
+            </div>
           </div>
         </div>
 
@@ -209,8 +216,8 @@ export default function Home() {
         </div>
       </main>
       <Jury />
-      <Participants/>
-      <Sponsors/>
+      <Participants />
+      <Sponsors />
       <Contact />
     </>
   );
