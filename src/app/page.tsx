@@ -84,7 +84,7 @@ export default function Home() {
           />
           <div className="text-center md:text-2xl md:-mt-5">
             <div className="text-center">
-              <img src="sigma.png" className="h-20 mx-auto w-auto bg-whit p-2"/>
+              <img src="sigma.png" className="h-20 mx-auto w-auto bg-whit p-2" />
               <span className="text-base my-1 font-semibold">Presents</span>
             </div>
             <h1 className="heading md:text-6xl text-4xl text-primary">
@@ -215,6 +215,19 @@ export default function Home() {
           </div>
         </div>
       </main>
+      <div className="md:h-screen w-full mt-48 md:mt-0">
+        <h3 className="text-center text-2xl md:text-4xl py-10 font-semibold">
+          Master Bakers Challenge India 2024 Recap
+        </h3>
+        <iframe
+          className="mx-auto md:h-[70%] md:w-[70%] w-11/12 min-h-60"
+          src="https://www.youtube.com/embed/7zd0vMOPPB0?si=5IKsApoYTl_6B0Ua"
+          title="YouTube video player"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          referrerPolicy="strict-origin-when-cross-origin"
+          allowFullScreen
+        ></iframe>
+      </div>
       <Jury />
       <Participants />
       <Sponsors />
