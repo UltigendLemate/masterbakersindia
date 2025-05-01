@@ -3,8 +3,11 @@ import "./globals.css";
 
 
 export const metadata: Metadata = {
-  title: "Master Bakers India Challenge 2024",
-  description: "Happening on 3rd & 4th August 2024 at India Expo Centre & Mart, Greater Noida, NCR",
+  title: "Master Bakers India Challenge 2025",
+  description: "Happening on 5th August 2025 at India Expo Centre & Mart, Greater Noida, NCR",
+  icons: {
+    icon: '/favicon.ico',
+  },
 };
 
 export default function RootLayout({
