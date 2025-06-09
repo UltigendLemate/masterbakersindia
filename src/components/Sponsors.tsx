@@ -47,6 +47,12 @@ const Sponsors = () => {
       "mini": "With 27 years of industry experience, RANS Technocrats is a renowned Indian company specializing in the manufacturing of kitchen equipment for the foodservice industry. Their commitment to advanced technology has made them a trusted choice for hotels and restaurants throughout India.",
       "text": "With 27 years of industry experience, RANS Technocrats is a renowned Indian company specializing in the manufacturing of kitchen equipment for the foodservice industry. Their commitment to advanced technology and innovative products has made them a trusted choice for hotels and restaurants throughout India.\nRANS Technocrats serves customers nationwide, providing dedicated service and support. They pride themselves on their state-of-the-art machinery and a strong emphasis on quality, ensuring that their equipment meets international standards.\nTo offer a comprehensive range of kitchen equipment, RANS Technocrats has developed specialized brands. ULTIMATE, one of their brands, offers a wide selection of baking ovens, salamanders, and pizza ovens. ICEDEN, another brand, focuses on commercial refrigeration equipment such as display counters, deep freezers, under-counter refrigerators, and freezers.\nGRATEINOX, their specialized brand, specializes in high-quality stainless steel kitchen floor gratings. Leveraging their expertise in sheet metal fabrication, RANS Technocrats also offers a diverse range of customized commercial kitchen equipment under the RANS brand.\nAs a leading manufacturer in India, RANS Technocrats is recognized for their commitment to delivering high-quality products and excellent service to customers nationwide."
     },
+    {
+      "img": "/sponsors/wc.png",
+      "link": "https://www.windsorchocolatier.com/",
+      "mini": "Windsor Chocolatier has emerged as a pioneer in India's premium chocolate segment, crafting artisanal products from bean to bar.",
+      "text": "Windsor Chocolatier has emerged as a pioneer in India's premium chocolate segment, crafting artisanal products from bean to bar. With its roots in Gurugram, the brand has become synonymous with quality, innovation, and refined taste. It has served discerning clients across hospitality and events, delivering bespoke chocolate creations that blend tradition with modern craftsmanship."
+    },
     // {
     //   "img": "/sponsors/eurofoods.jpg",
     //   "link": "https://eurofoods.co.in/import/",
