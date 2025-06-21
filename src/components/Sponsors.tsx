@@ -30,11 +30,17 @@ const Sponsors = () => {
       "text": "DKG Sales Private Limited*, established in 1987 by Dilip Kumar Gandhi, is a premier Delhi-based manufacturing company catering to the Indian hotel and restaurant industry. Specializing in high-quality cutlery, crockery, glassware, and kitchen equipment, DKG meets the unique needs of chefs. Their state-of-the-art facility ensures premium quality, innovation, and client-centric solutions, helping chefs create exceptional culinary experiences."
     },
     {
-      "img": "/sponsors/5.png",
-      "link": "https://www.pi-india.com/",
-      "mini": "Products & Ideas proudly support the Pastry and Bakery Industry with top-tier equipment from esteemed international brands...",
-      "text": "Founded in 2009, Products & Ideas (India) Private Limited is a premier importer of commercial kitchen and bakery equipment in India. We proudly support the Pastry and Bakery Industry with top-tier equipment from esteemed international brands, ensuring exceptional quality and service. We offer premium quality products that meet high standards, providing a diverse range of commercial kitchen equipment including ovens, mixers, and table top refrigeration units. Our products boast superior shelf life and require minimal repairs, ensuring efficiency and reliability. We deal with renowned brands like SPAR, Stella, Ace Plus, Merrychef, Convotherm, Lincoln, Rowzer Plus, JTC, My Cook, Ideal, ITV, Antunes, and many more. Committed to innovation and excellence, Products & Ideas (India) Private Limited helps commercial kitchens and bakeries operate smoothly, ensuring success and satisfaction for hotels, restaurants, caterers, and more."
+      "img": "/sponsors/verpaco.png",
+      "link": "https://www.amverpaco.com",
+      "mini": "Andy Mannhart Verpaco India Pvt. Ltd., a joint venture between the erstwhile Andy Mannhart AG Switzerland and Verpaco India, was established in 1990.",
+      "text": "Andy Mannhart Verpaco India Pvt. Ltd., a joint venture between the erstwhile Andy Mannhart AG Switzerland and Verpaco India, was established in 1990. The company has built a reputation for offering one of the most comprehensive portfolios of professional kitchen, buffet, and bakery equipment, along with complete tabletop solutions including high-quality cutlery, crockery, and glassware. With over 30 years of experience and a product range exceeding 15,000 items, Andy Mannhart Verpaco has successfully equipped more than 100 hotel projects across India."
     },
+    // {
+    //   "img": "/sponsors/5.png",
+    //   "link": "https://www.pi-india.com/",
+    //   "mini": "Products & Ideas proudly support the Pastry and Bakery Industry with top-tier equipment from esteemed international brands...",
+    //   "text": "Founded in 2009, Products & Ideas (India) Private Limited is a premier importer of commercial kitchen and bakery equipment in India. We proudly support the Pastry and Bakery Industry with top-tier equipment from esteemed international brands, ensuring exceptional quality and service. We offer premium quality products that meet high standards, providing a diverse range of commercial kitchen equipment including ovens, mixers, and table top refrigeration units. Our products boast superior shelf life and require minimal repairs, ensuring efficiency and reliability. We deal with renowned brands like SPAR, Stella, Ace Plus, Merrychef, Convotherm, Lincoln, Rowzer Plus, JTC, My Cook, Ideal, ITV, Antunes, and many more. Committed to innovation and excellence, Products & Ideas (India) Private Limited helps commercial kitchens and bakeries operate smoothly, ensuring success and satisfaction for hotels, restaurants, caterers, and more."
+    // },
     {
       "img": "/sponsors/1.png",
       "link": "https://www.modequipment.com/",
