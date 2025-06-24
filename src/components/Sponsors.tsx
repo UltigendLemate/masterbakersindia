@@ -35,6 +35,12 @@ const Sponsors = () => {
       "mini": "Andy Mannhart Verpaco India Pvt. Ltd., a joint venture between the erstwhile Andy Mannhart AG Switzerland and Verpaco India, was established in 1990.",
       "text": "Andy Mannhart Verpaco India Pvt. Ltd., a joint venture between the erstwhile Andy Mannhart AG Switzerland and Verpaco India, was established in 1990. The company has built a reputation for offering one of the most comprehensive portfolios of professional kitchen, buffet, and bakery equipment, along with complete tabletop solutions including high-quality cutlery, crockery, and glassware. With over 30 years of experience and a product range exceeding 15,000 items, Andy Mannhart Verpaco has successfully equipped more than 100 hotel projects across India."
     },
+    {
+      "img": "/sponsors/monin.png",
+      "link": "https://monin.in/",
+      "mini": "With a legacy of over 100 years, Monin is a global leader in premium syrups, fruit mixes, sauces, and beverage solutions. In India, Monin inspires creativity behind the bar and in the kitchen",
+      "text": "With a legacy of over 100 years, Monin is a global leader in premium syrups, fruit mixes, sauces, and beverage solutions. In India, Monin inspires creativity behind the bar and in the kitchen, empowering chefs and mixologists with world-class flavors. We are proud to support platforms that nurture young culinary talent and celebrate innovation."
+    },
     // {
     //   "img": "/sponsors/5.png",
     //   "link": "https://www.pi-india.com/",
