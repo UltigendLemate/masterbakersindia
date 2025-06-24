@@ -7,12 +7,16 @@ export default function Contact() {
   const sendEmail = () => {
     // console.log(form.current)
     if (!form.current) return;
+
+    const formData = new FormData(form.current);
+    const templateParams = Object.fromEntries(formData.entries());
+    templateParams.website = "masterbakers";
     emailjs
-      .sendForm(
-        "service_8vyys27",
-        "template_6m9mp0v",
-        form.current,
-        "bIz0Cj4I0MEgua1CU"
+      .send(
+        "service_vu9nhui",
+        "template_g6wd567",
+        templateParams,
+        "Ls8HTlnAMkyl7Ss-J"
       )
       .then(
         (result) => {
@@ -51,7 +55,7 @@ export default function Contact() {
                         focus-visible:shadow-none
                         focus:border-primary
                         "
-                      name="from_name"
+                      name="name"
                     />
                   </div>
                   <div className="mb-4">
@@ -69,7 +73,7 @@ export default function Contact() {
                         focus-visible:shadow-none
                         focus:border-primary
                         "
-                      name="user_email"
+                      name="email"
                     />
                   </div>
                   <div className="mb-4">
@@ -87,7 +91,7 @@ export default function Contact() {
                         focus-visible:shadow-none
                         focus:border-primary
                         "
-                      name="user_phone"
+                      name="phone"
                     />
                   </div>
                   <div className="mb-4">
