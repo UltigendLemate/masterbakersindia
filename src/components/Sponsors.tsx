@@ -23,12 +23,7 @@ const Sponsors = () => {
     //   "mini": "Since its foundation in 1999, École Ducasse has become an internationally-renowned exponent of teaching culinary and pastry arts, driven by the vision and energy of the iconic chef Alain Ducasse.",
     //   "text": "Since its foundation in 1999, École Ducasse has become an internationally-renowned exponent of teaching culinary and pastry arts, driven by the vision and energy of the iconic chef Alain Ducasse. As a chef, Alain Ducasse, has achieved global renown by earning the most Michelin stars of any chef in history. École Ducasse follows this same single-minded approach to the quality of teaching it provides. Meilleurs Ouvriers de France, World Champions, renowned chefs, craftsmen, hospitality experts - our teams bring together a unique mix of expertise. As a sign of this worldwide recognition, École Ducasse has been awarded &quot;World&#39;s Best Culinary Training Institution&quot; and &quot;Europe's Best Culinary Training Institution&quot; at the World Culinary Awards for two consecutive years, 2023 and 2024. Since its creation, École Ducasse has a significant international impact and keeps on building its network of schools with campuses all over the world."
     // },
-    {
-      "img": "/sponsors/apca.png",
-      "link": "https://www.apcaindia.com/",
-      "mini": "Academy of Pastry & Culinary Arts (APCA) is Asia's most awarded culinary and pastry institution, with campuses in India, Singapore, Malaysia, and beyond.",
-      "text": "Academy of Pastry & Culinary Arts (APCA) is Asia's most awarded culinary and pastry institution, with campuses in India, Singapore, Malaysia, and beyond. It offers intensive full-time and part-time programs focused on hands-on training, international faculty, and global internships. With 92% of sessions conducted in the kitchen, students craft their own products daily. APCA's commitment to excellence is reinforced by its City & Guilds London certification and a legacy of producing globally recognized pastry and culinary professionals."
-    },
+
     {
       "img": "/sponsors/dkg.png",
       "link": "https://dkgspl.co/",
@@ -83,6 +78,12 @@ const Sponsors = () => {
       "link": "https://www.chefibpa.com",
       "mini": "IBCA is one of the topmost learning centre in the capital of India as an impeccable platform to nurture future professionals in this artistic field of Bakery and Culinary Arts.",
       "text": "IBCA has become an excellent platform for newbies to learn and master the field of Bakery and Culinary Arts in their sophisticated courses. All courses have a standard curriculum to give students guidance in various methods, processes, preparations, and building recipes from scratch. We turn newcomers with little or no experience in Bakery and Culinary Arts into dedicated professionals ready to compete in the demanding world of building their careers. IBCA offers them all the resources they need to advance their amateur careers while receiving professional guidance. Over the years, IBCA has earned one of the top names as bakery institute in Delhi & culinary institute in Delhi. Last few years, people have joined our bakery classes in India from different parts of the world and states of India, establishing us as a prestigious bakery & Culinary Institute in India. All these joinings happened based on our student performance on the International level and our placement records across the world."
+    },
+    {
+      "img": "/sponsors/apca.png",
+      "link": "https://www.apcaindia.com/",
+      "mini": "Academy of Pastry & Culinary Arts (APCA) is Asia's most awarded culinary and pastry institution, with campuses in India, Singapore, Malaysia, and beyond.",
+      "text": "Academy of Pastry & Culinary Arts (APCA) is Asia's most awarded culinary and pastry institution, with campuses in India, Singapore, Malaysia, and beyond. It offers intensive full-time and part-time programs focused on hands-on training, international faculty, and global internships. With 92% of sessions conducted in the kitchen, students craft their own products daily. APCA's commitment to excellence is reinforced by its City & Guilds London certification and a legacy of producing globally recognized pastry and culinary professionals."
     },
   ]
   return (
