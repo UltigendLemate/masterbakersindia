@@ -24,6 +24,12 @@ const Sponsors = () => {
     //   "text": "Since its foundation in 1999, École Ducasse has become an internationally-renowned exponent of teaching culinary and pastry arts, driven by the vision and energy of the iconic chef Alain Ducasse. As a chef, Alain Ducasse, has achieved global renown by earning the most Michelin stars of any chef in history. École Ducasse follows this same single-minded approach to the quality of teaching it provides. Meilleurs Ouvriers de France, World Champions, renowned chefs, craftsmen, hospitality experts - our teams bring together a unique mix of expertise. As a sign of this worldwide recognition, École Ducasse has been awarded &quot;World&#39;s Best Culinary Training Institution&quot; and &quot;Europe's Best Culinary Training Institution&quot; at the World Culinary Awards for two consecutive years, 2023 and 2024. Since its creation, École Ducasse has a significant international impact and keeps on building its network of schools with campuses all over the world."
     // },
     {
+      "img": "/sponsors/apca.png",
+      "link": "https://www.apcaindia.com/",
+      "mini": "Academy of Pastry & Culinary Arts (APCA) is Asia's most awarded culinary and pastry institution, with campuses in India, Singapore, Malaysia, and beyond.",
+      "text": "Academy of Pastry & Culinary Arts (APCA) is Asia's most awarded culinary and pastry institution, with campuses in India, Singapore, Malaysia, and beyond. It offers intensive full-time and part-time programs focused on hands-on training, international faculty, and global internships. With 92% of sessions conducted in the kitchen, students craft their own products daily. APCA's commitment to excellence is reinforced by its City & Guilds London certification and a legacy of producing globally recognized pastry and culinary professionals."
+    },
+    {
       "img": "/sponsors/dkg.png",
       "link": "https://dkgspl.co/",
       "mini": "DKG Sales Private Limited is a premier Delhi-based manufacturing company catering to the Indian hotel and restaurant industry.",
