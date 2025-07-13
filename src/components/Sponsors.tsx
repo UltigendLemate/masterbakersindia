@@ -93,7 +93,13 @@ const Sponsors = () => {
         "android": "https://play.google.com/store/apps/details?id=com.ocsindiareactnative",
         "ios": "https://apps.apple.com/in/app/lots-wholesale-b2b-shopping/id1532881194"
       }
-    }
+    },
+    {
+      "img": "/sponsors/klaus.webp",
+      "link": "https://www.klausrefrigeration.com/",
+      "mini": "Klaus Refrigeration – Precision Cooling from Vietnam, Now in India.Engineered for durability and efficiency, Klaus offers world-class commercial refrigeration solutions. Proudly made in Vietnam and brought to India by Mod Kitchen Equipments. Trusted by chefs, built to perform.",
+      "text": "Klaus Refrigeration – Precision Cooling from Vietnam, Now in India.Engineered for durability and efficiency, Klaus offers world-class commercial refrigeration solutions. Proudly made in Vietnam and brought to India by Mod Kitchen Equipments. Trusted by chefs, built to perform."
+    },
   ]
   return (
     <div
