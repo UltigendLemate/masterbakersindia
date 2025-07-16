@@ -5,15 +5,15 @@ import JuryCard from './JuryCard'
 const Jury = () => {
     const jury = [
         {
-          "name": "Balendra Singh",
-          "img": "/judge1.png",
-          "text" : "Dr. Balendra Singh is director at Institute of Bakery &amp; Culinary Arts New Delhi. He established the institute to offer education based on his experience in hospitality industry as one of the leading pastry chef for aspiring professionals interested to make career in Bakery &amp; Pastry. He has a flair for innovation with expertise in international pastry cuisine. He studied at The IHM Dehradun with a focus on bakery and confectionery. Later he garnered over 20 years of experience at major hotels like Umaid Bhawan Palace Jodhpur, Grand Hyatt New Delhi, Westin Gurgaon, JW Marriott New Delhi, Pullman, Novotel New Delhi, The Taj Mahal New Delhi &amp; cruise ships around the world, where he honed his skills to international level. <br> He gained wide knowledge in casual &amp; fine dining, a-la-carte, buffet &amp; banquet and pastry verticals of foodservice industry. As a culinary educator, he focus on skill based education ensuring students a good career."
+          "name": "Gaurav Mishra",
+          "img": "/Gaurav Mishra.png",
+          "text" : "Chef Gaurav Misra is Executive Chef at Crowne Plaza, Rohini, with over 25 years of luxury hospitality experience. He has led operations at Hilton Jaipur, The Westin Pushkar, The Ananta Udaipur, and Carnival Cruise Lines, specializing in menu innovation, team mentoring, and pre-opening setups. He began at Leela Palace Goa. He holds an MBA (PGP) from NIM Jaipur, a Hotel Management diploma from IHMCTAN Ahmedabad; advanced culinary training in France."
         },
         
         {
-          "name": "Kazem Samandari",
-          "img": "/1.png",
-          "text" : "Kazem Samandari holds a Ph.D. in Industrial Economy, an MS in Electrical Engineering, and a Business Degree from the Swiss Federal Institute of Technology in Zurich, Switzerland. With over 45 years of professional and entrepreneurial experience, he has been a pivotal figure in the global high-tech industry. Kazem has spearheaded six startups and worked across more than 60 countries on all continents. His extensive executive experience includes key positions at GMC Digital Printing Systems, Scitex Digital Printing, Inc., Kodak Versamark Inc., and Given Imaging Ltd. In 2014, Kazem founded KCSH & Associates in Singapore, specializing in assisting young high-tech companies to find business partners in Asia and expand their activities in the region. He also serves as the President of Terra Firma International. Kazem co-founded L’Opéra (French Bakery Pvt. Ltd.) and has served as its Executive Chairman since its inception in 2008. More recently, in 2022, he co-founded the Trajectories of Hope Foundation, dedicated to society-building endeavors. Kazem’s career has been marked by professional exposure to various cultures and traditions worldwide, enriching his global perspective and professional approach. In 2015, he was honored by the French Government with the prestigious title of Knight in the National Order of Merit (Chevalier de l’Ordre national du Mérite)."
+          "name": "Satbir Singh",
+          "img": "/Satbir Singh.png",
+          "text" : "Chef Satbir Singh Bakshi has been overseeing culinary operations at Oberoi hotels in India as Corporate Chef de Cuisine since August 2021. In a 28‑year career, he started  his career  at Le Meridien New Delhi, followed by Grand Hyatt New Delhi, and joined the Oberoi group in 2003. He rose up the ladder and became Executive Chef at The Oberoi Mumbai in 2014. He was closely involved in opening of  “Cou Cou by Oberoi” (2021) and “Amadeo by Oberoi” (2023), implemented ISO 22000 standards group‑wide, and optimized menu engineering and cost controls. A Delhi University graduate with an IHMCTAN Ahmedabad diploma, he excels in team development and F&B innovation."
         },
         // {
         //   "name": "Eureka Araujo",
@@ -23,7 +23,7 @@ const Jury = () => {
         {
           "name": "Parvinder Singh",
           "img": "/judge4.png",
-          "text" : "Chef Parvinder Singh Bali is a distinguished culinary professional who spent 3 decades at Oberoi Hotels, renowned for his exceptional expertise and innovative approach to gastronomy. With a career spanning over three decades, Chef Bali has honed his skills in various prestigious kitchens around the world. At Oberoi Centre for Learning and Development, he has played a pivotal role in elevating culinary standards, blending traditional techniques with contemporary flair. His passion for teaching and mentoring aspiring chefs is evident through his contributions to culinary education. Chef Bali's dedication to excellence and creativity has earned him a revered place in the culinary industry. Dr. Chef Bali is now set to open his Culinary and pastry school named School for European Pastry and Culinary Arts in Gurugram in September 2024"
+          "text" : "Dr Chef Parvinder Singh Bali is Director of the School for European Pastry and Culinary Arts, with 30 years at Oberoi Hotels. At the Oberoi Centre for Learning and Development, he elevated culinary standards by blending classical techniques with modern innovation. A gold medalist from IHM Kolkata and CIA Pro Certification top scorer, he authored five cookbooks and represented India at WorldSkills Leipzig. His passion for mentoring shaped generations of chefs."
         }
       ]
       

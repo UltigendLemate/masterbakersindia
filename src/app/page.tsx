@@ -11,7 +11,7 @@ import {
 } from "@/components/ui/dialog";
 import Link from "next/link";
 import Contact from "@/components/Contact";
-// import Jury from "@/components/Jury";
+import Jury from "@/components/Jury";
 import Sponsors from "@/components/Sponsors";
 import Participants from "@/components/Participants";
 
@@ -232,7 +232,7 @@ export default function Home() {
           allowFullScreen
         ></iframe>
       </div>
-      {/* <Jury /> */}
+      <Jury />
       <Participants />
       <Sponsors />
       <Contact />
