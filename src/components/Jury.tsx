@@ -24,7 +24,13 @@ const Jury = () => {
           "name": "Parvinder Singh",
           "img": "/judge4.png",
           "text" : "Dr Chef Parvinder Singh Bali is Director of the School for European Pastry and Culinary Arts, with 30 years at Oberoi Hotels. At the Oberoi Centre for Learning and Development, he elevated culinary standards by blending classical techniques with modern innovation. A gold medalist from IHM Kolkata and CIA Pro Certification top scorer, he authored five cookbooks and represented India at WorldSkills Leipzig. His passion for mentoring shaped generations of chefs."
-        }
+        },
+        {
+          "name": "Mohammed Nauman Qureshi",
+          "img": "/judge5.png",
+          "text" : "Mohammed Nauman Qureshi is Head Pastry Chef at Paul Bakery India since April 2021. Over 15 years at premier patisseries like Theobroma Foods and L’Opéra, he led large‑scale production of signature cakes and macarons, ensuring consistent quality and innovation. A HACCP authority, he implemented rigorous safety protocols across multiple kitchens, achieving flawless audit results. As a mentor, he’s trained and developed dozens of pastry professionals. He holds a BSc in Hospitality & Tourism and a BA from the University of Delhi."
+        },
+
       ]
       
     
@@ -33,7 +39,7 @@ const Jury = () => {
         <h2 className='z-20 mx-auto text-5xl md:text-7xl text-primary mb-4  mt-10 text-center heading '>Our Jury</h2>
 
 
-        <div className='md:mx-24 mx-10 mt-10 grid grid-cols-1 md:grid-cols-3 gap-10'>
+        <div className='md:mx-24 mx-10 mt-10 grid grid-cols-1 md:grid-cols-2 gap-10'>
 
         {
             jury.map((item) => (

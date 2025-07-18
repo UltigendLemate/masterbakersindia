@@ -10,6 +10,7 @@ import {
   DialogTrigger,
 } from "@/components/ui/dialog";
 import Link from "next/link";
+import PressMedia from "@/components/PressMedia";
 import Contact from "@/components/Contact";
 import Jury from "@/components/Jury";
 import Sponsors from "@/components/Sponsors";
@@ -235,6 +236,7 @@ export default function Home() {
       <Jury />
       <Participants />
       <Sponsors />
+      <PressMedia />
       <Contact />
     </>
   );

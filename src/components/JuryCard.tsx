@@ -25,7 +25,7 @@ const JuryCard = (props: Props) => {
 
       <div className="md:w-[60%] p-5 md:p-0">
         <h2 className="text-xl font-bold mb-2">{props.name}</h2>
-        <p className="text-sm line-clamp-3">{props.text}</p>
+        <p className="text-sm line-clamp-6">{props.text}</p>
         <Dialog>
           <DialogTrigger>
             <p className="text-sm cursor-pointer text-primary underline">
