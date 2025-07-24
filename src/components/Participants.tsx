@@ -45,7 +45,7 @@ const Participants = () => {
       img1: "/participants/Dinesh Kumar.png",
       img2: "/participants/mrskaurs.png",
       name: "Dinesh Kumar",
-      desc: "With a rich career spanning top bakeries in India and the Middle East, Dinesh Kumar brings mastery in artisanal baking and operational leadership. From innovating at Defense Bakery to scaling quality at Mrs Kaur's, he's a specialist in viennoiserie, sourdoughs, and team training—backed by international credentials and a passion for excellence.",
+      desc: "With a rich career spanning top bakeries in India and the Middle East, Dinesh Kumar brings mastery in artisanal baking and operational leadership. From innovating at Defence Bakery to scaling quality at Mrs Kaur's, he's a specialist in viennoiserie, sourdoughs, and team training—backed by international credentials and a passion for excellence.",
     },
     {
       img1: "/participants/Kanhaiya Lal Rawat.png",
