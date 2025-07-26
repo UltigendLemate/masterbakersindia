@@ -86,6 +86,12 @@ const Sponsors = () => {
       "text": "Academy of Pastry & Culinary Arts (APCA) is Asia's most awarded culinary and pastry institution, with campuses in India, Singapore, Malaysia, and beyond. It offers intensive full-time and part-time programs focused on hands-on training, international faculty, and global internships. With 92% of sessions conducted in the kitchen, students craft their own products daily. APCA's commitment to excellence is reinforced by its City & Guilds London certification and a legacy of producing globally recognized pastry and culinary professionals."
     },
     {
+      "img": "/sponsors/butler.png",
+      "link": "https://www.thebutlermart.com/",
+      "mini": "Established in 1997 in Delhi, The Butler Hotel Supermarket is a premier supplier of professional bakery and hospitality equipment.",
+      "text": "Established in 1997 in Delhi, The Butler Hotel Supermarket is a premier supplier of professional bakery and hospitality equipment. Offering tools from Pavoni, Chocolate World and others—from bakeware to buffet ware, chocolate tempering machines, display stands, and packaging—it serves top institutions like Taj, Marriott, Oberoi and ITC. A reliable partner for pastry professionals."
+    },
+    {
       "img": "/sponsors/lots.png",
       "mini": "With 30+ years of B2B experience in Thailand, LOTS Wholesale Solutions entered India to meet the evolving needs of its business customers, offering 4000+ products in Delhi NCR at wholesale prices.",
       "text": "With 30+ years of B2B experience in Thailand, LOTS Wholesale Solutions entered India to meet the evolving needs of its business customers, offering 4000+ products in Delhi NCR at wholesale prices. We cater to HoReCa and other businesses with fresh produce, frozen food, bakery ingredients, dairy, kitchenware, office supplies, and more.",
