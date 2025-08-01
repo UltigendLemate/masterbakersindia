@@ -92,6 +92,12 @@ const Sponsors = () => {
       "text": "Established in 1997 in Delhi, The Butler Hotel Supermarket is a premier supplier of professional bakery and hospitality equipment. Offering tools from Pavoni, Chocolate World and others—from bakeware to buffet ware, chocolate tempering machines, display stands, and packaging—it serves top institutions like Taj, Marriott, Oberoi and ITC. A reliable partner for pastry professionals."
     },
     {
+      "img": "/sponsors/euro.png",
+      "link": "https://eurofoods.co.in",
+      "mini": "Millac proudly joins hands as the Title Sponsor for the Junior Pastry Indian Cup 2025, reaffirming its commitment to nurturing the next generation of pastry talent in India.",
+      "text": "Millac proudly joins hands as the Title Sponsor for the Junior Pastry Indian Cup 2025, reaffirming its commitment to nurturing the next generation of pastry talent in India. This strategic partnership is closely aligned with Millac’s mission to support excellence in modern professional kitchens by providing high-performance, reliable ingredients like Millac Gold — a versatile cream crafted for superior results in whipping, cooking, and pouring. Imported and distributed in India by Euro Foods, Millac Gold reflects a global standard of quality tailored for the demands of Indian chefs, bakers, and foodservice professionals. Through this association, Millac aims to inspire young pastry chefs to innovate with confidence, promote skill-building and creativity, and demonstrate the functional versatility of Millac Gold in high-pressure, real-world kitchen environments. By championing this prestigious platform, Millac not only celebrates emerging culinary craftsmanship but also reinforces its position as a trusted ally to the food and hospitality industry across the country."
+    },
+    {
       "img": "/sponsors/lots.png",
       "mini": "With 30+ years of B2B experience in Thailand, LOTS Wholesale Solutions entered India to meet the evolving needs of its business customers, offering 4000+ products in Delhi NCR at wholesale prices.",
       "text": "With 30+ years of B2B experience in Thailand, LOTS Wholesale Solutions entered India to meet the evolving needs of its business customers, offering 4000+ products in Delhi NCR at wholesale prices. We cater to HoReCa and other businesses with fresh produce, frozen food, bakery ingredients, dairy, kitchenware, office supplies, and more.",
