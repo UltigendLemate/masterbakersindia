@@ -220,7 +220,7 @@ export default function Home() {
           </div>
         </div>
       </main>
-      <div className="md:h-screen w-full mt-48 md:mt-0">
+      {/* <div className="md:h-screen w-full mt-48 md:mt-0">
         <h3 className="text-center text-2xl md:text-4xl py-10 font-semibold">
           Master Bakers Challenge India 2024 Recap
         </h3>
@@ -232,7 +232,41 @@ export default function Home() {
           referrerPolicy="strict-origin-when-cross-origin"
           allowFullScreen
         ></iframe>
-      </div>
+      </div> */}
+      <section className="w-full my-12 pt-6">
+        <h3 className="z-20 mx-auto text-4xl md:text-7xl text-primary mt-12 mb-6 text-center heading ">
+          Winners 2025 - JW Marriott
+        </h3>
+        <div className="md:mx-16 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 px-6">
+          <div className="relative w-full aspect-[16/9] overflow-hidden rounded-lg">
+            <Image
+              src="/winners/winner-02.jpg"
+              alt="JW Marriott Winner 2025 - Photo 1"
+              fill
+              sizes="(min-width: 768px) 33vw, 100vw"
+              className="object-cover"
+            />
+          </div>
+          <div className="relative w-full aspect-[16/9] overflow-hidden rounded-lg">
+            <Image
+              src="/winners/winner-01.jpg"
+              alt="JW Marriott Winner 2025 - Photo 2"
+              fill
+              sizes="(min-width: 768px) 33vw, 100vw"
+              className="object-cover"
+            />
+          </div>
+          <div className="relative w-full aspect-[16/9] overflow-hidden rounded-lg">
+            <Image
+              src="/winners/winner-03.jpg"
+              alt="JW Marriott Winner 2025 - Photo 3"
+              fill
+              sizes="(min-width: 768px) 33vw, 100vw"
+              className="object-cover"
+            />
+          </div>
+        </div>
+      </section>
       <Jury />
       <Participants />
       <Sponsors />
