@@ -85,7 +85,7 @@ export default function Home() {
               width={350}
               height={350}
             />
-            <p className="text-xl text-primary font-medium -mt-6">Second Edition</p>
+            <p className="text-xl text-primary font-medium -mt-6">Third Edition</p>
           </div>
           <div className="text-center md:text-2xl md:-mt-5">
             {/* <div className="text-center">
@@ -93,9 +93,9 @@ export default function Home() {
               <span className="text-base my-1 font-semibold">Presents</span>
             </div> */}
             <h1 className="heading md:text-6xl text-4xl text-primary">
-              Master Bakers <br /> Challenge India 2025
+              Master Bakers <br /> Challenge India 2026
             </h1>
-            <h4 className="font-bold  mt-2">5th August 2025</h4>
+            <h4 className="font-bold  mt-2">7th August 2026</h4>
             <h4 className="">India Expo Centre & Mart, Greater Noida, NCR</h4>
             {/* <div className="text-lg mt-5 font-semibold">
               Powered By <img src="dkg.jpg" className="h-10 w-auto inline ml-3" alt="" />
@@ -235,13 +235,13 @@ export default function Home() {
       </div> */}
       <section className="w-full my-12 pt-6">
         <h3 className="z-20 mx-auto text-4xl px-3 md:text-7xl text-primary mt-12 mb-6 text-center heading ">
-          Winner 2025 - Siddhesh Undire, ITC Maratha, Mumbai
+          Winner 2026 - Siddhesh Undire, ITC Maratha, Mumbai
         </h3>
         <div className="md:mx-16 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 px-6">
           <div className="relative w-full aspect-[16/9] overflow-hidden rounded-lg">
             <Image
               src="/winners/winner-02.jpg"
-              alt="JW Marriott Winner 2025 - Photo 1"
+              alt="JW Marriott Winner 2026 - Photo 1"
               fill
               sizes="(min-width: 768px) 33vw, 100vw"
               className="object-cover"
@@ -250,7 +250,7 @@ export default function Home() {
           <div className="relative w-full aspect-[16/9] overflow-hidden rounded-lg">
             <Image
               src="/winners/winner-01.jpg"
-              alt="JW Marriott Winner 2025 - Photo 2"
+              alt="JW Marriott Winner 2026 - Photo 2"
               fill
               sizes="(min-width: 768px) 33vw, 100vw"
               className="object-cover"
@@ -259,7 +259,7 @@ export default function Home() {
           <div className="relative w-full aspect-[16/9] overflow-hidden rounded-lg">
             <Image
               src="/winners/winner-03.jpg"
-              alt="JW Marriott Winner 2025 - Photo 3"
+              alt="JW Marriott Winner 2026 - Photo 3"
               fill
               sizes="(min-width: 768px) 33vw, 100vw"
               className="object-cover"
@@ -267,10 +267,10 @@ export default function Home() {
           </div>
         </div>
       </section>
-      <Jury />
-      <Participants />
-      <Sponsors />
-      <PressMedia />
+      {/* <Jury /> */}
+      {/* <Participants /> */}
+      {/* <Sponsors /> */}
+      {/* <PressMedia /> */}
       <Contact />
     </>
   );

@@ -11,7 +11,7 @@ const PressMedia = () => {
                         Press & Media Center
                     </h2>
                     <p className='text-xl text-muted-foreground max-w-3xl mx-auto'>
-                        For all media inquiries, interviews, and press releases related to Master Bakers Challenge India 2025
+                        For all media inquiries, interviews, and press releases related to Master Bakers Challenge India 2026
                     </p>
                 </div>
 
@@ -32,13 +32,13 @@ const PressMedia = () => {
                                 </div>
 
                                 <div className='text-sm text-muted-foreground font-medium mb-4'>
-                                    Official PR Partner for Master Bakers Challenge India 2025
+                                    Official PR Partner for Master Bakers Challenge India 2026
                                 </div>
                             </div>
 
                             <div className='text-card-foreground'>
                                 <p className='mb-4'>
-                                    All media coverage, press releases, and journalist inquiries for Master Bakers Challenge India 2025
+                                    All media coverage, press releases, and journalist inquiries for Master Bakers Challenge India 2026
                                     are handled exclusively by our official PR partner, Ashwini Publicity.
                                 </p>
                             </div>
