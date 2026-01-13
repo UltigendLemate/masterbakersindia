@@ -235,7 +235,7 @@ export default function Home() {
       </div> */}
       <section className="w-full my-12 pt-6">
         <h3 className="z-20 mx-auto text-4xl px-3 md:text-7xl text-primary mt-12 mb-6 text-center heading ">
-          Winner 2026 - Siddhesh Undire, ITC Maratha, Mumbai
+          Winner 2025 - Siddhesh Undire, ITC Maratha, Mumbai
         </h3>
         <div className="md:mx-16 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 px-6">
           <div className="relative w-full aspect-[16/9] overflow-hidden rounded-lg">
