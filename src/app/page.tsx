@@ -269,7 +269,7 @@ export default function Home() {
       </section>
       {/* <Jury /> */}
       {/* <Participants /> */}
-      {/* <Sponsors /> */}
+      <Sponsors />
       {/* <PressMedia /> */}
       <Contact />
     </>
