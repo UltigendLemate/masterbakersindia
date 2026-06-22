@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Script from "next/script";
 import "./globals.css";
 
 
@@ -17,7 +18,23 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" >
-      <body>{children}</body>
+      <body>
+        {children}
+        <Script id="hyperleap-chatbot" strategy="afterInteractive">
+          {`
+            (function () {
+              window.userChatbotConfig = {
+                chatbotId: "5856d674-3d90-40e6-aaef-e18f4ced1941",
+                privateKey: "NTg1NmQ2NzQzZDkwNDBlNmFhZWZlMThmNGNlZDE5NDFfMjY1MDY=",
+              };
+              var chatbotScript = document.createElement("script");
+              chatbotScript.src = "https://chatjs.hyperleap.ai/chatbot.min.js";
+              chatbotScript.async = true;
+              document.head.appendChild(chatbotScript);
+            })();
+          `}
+        </Script>
+      </body>
     </html>
   );
 }
