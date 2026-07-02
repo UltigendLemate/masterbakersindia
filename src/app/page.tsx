@@ -268,7 +268,7 @@ export default function Home() {
         </div>
       </section>
       {/* <Jury /> */}
-      {/* <Participants /> */}
+      <Participants />
       <Sponsors />
       {/* <PressMedia /> */}
       <Contact />

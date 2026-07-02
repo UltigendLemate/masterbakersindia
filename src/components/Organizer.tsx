@@ -31,8 +31,8 @@ const Organizer = (props : Props) => {
           <img src={props.img} alt="Image1" className='w-full h-full object-contain'/>
         </div>
       ) : (
-        <Link href={props.link || "#"}>
-          <img src={props.img} alt="Image1" className='w-80 p-4' />
+        <Link href={props.link || "#"} className="w-80 p-4 flex items-center justify-center">
+          <img src={props.img} alt="Image1" className='max-w-full max-h-full object-contain' />
         </Link>
       )}
     </div> <div className="p-4">

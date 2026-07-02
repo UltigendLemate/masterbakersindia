@@ -39,49 +39,43 @@ const Participants = () => {
       img1: "/participants/Diksha Khandelwal.png",
       img2: "/participants/ibca.png",
       name: "Diksha Khandelwal",
-      desc: "A decorated pastry artist and educator, Diksha serves as Chef Instructor and Centre Head at the Institute of Bakery and Culinary Arts. With accolades including Gold at Aahar 2024 and the Nari Ratan Award, her journey reflects technical mastery and a passion for teaching. Internationally certified, she specializes in patisserie with deep roots in French culinary arts.",
+      desc: "A decorated pastry artist and educator, Diksha Khandelwal serves as Chef Instructor and Centre Head at the Institute of Bakery and Culinary Arts, New Delhi, where she has shaped aspiring professionals since 2019. Internationally certified through City & Guilds and the London Academy of Professional Training, she pairs technical patisserie mastery with a genuine passion for teaching. Her competition pedigree includes Silver in plated dessert at AAHAR 2023 and Gold at AAHAR 2024.",
     },
     {
-      img1: "/participants/Dinesh Kumar.png",
-      img2: "/participants/mrskaurs.png",
-      name: "Dinesh Kumar",
-      desc: "With a rich career spanning top bakeries in India and the Middle East, Dinesh Kumar brings mastery in artisanal baking and operational leadership. From innovating at Defence Bakery to scaling quality at Mrs Kaur's, he's a specialist in viennoiserie, sourdoughs, and team training—backed by international credentials and a passion for excellence.",
+      img1: "/participants/Zafar Khan.png",
+      img2: "/participants/defencebakery.png",
+      name: "Zafar Khan",
+      desc: "A senior bakery and hot-kitchen specialist with over 20 years of experience, Chef Zafar Khan currently anchors production at Defence Bakery, one of Delhi's most storied names. His craft spans puff work, artisan breads, savouries, dry cakes, cookies and baked snacks, backed by deep strengths in recipe development and production planning. Having sharpened his skills across Peta Cake, Daily Bread and CACAO Bakery, he is known for disciplined, quality-focused bakery operations and team training.",
     },
     {
-      img1: "/participants/Kanhaiya Lal Rawat.png",
-      img2: "/participants/lopera.png",
-      name: "Kanhaiya Lal Rawat",
-      desc: "With over 13 years at L'Opéra, Kanhaiya has risen from Commis III to Senior Chef de Partie at one of India's top French bakeries. He specializes in artisanal breads, pastries, and team operations, having worked alongside global pastry masters. His precision, leadership, and deep technical skills make him a standout in modern bakery execution.",
+      img1: "/participants/Faryaz Engineer.png",
+      img2: "/participants/isfbp.png",
+      name: "Faryaz Engineer",
+      desc: "A Boulanger et Patissier with international experience across India and Bahrain, Faryaz Engineer is Head Bakery Instructor at the International School of French Baking & Patisserie (ISFBP). His career runs through respected kitchens including Taj Lands End Mumbai, Gulf Hotel Bahrain and the Ratan Tata Institute, sharpening his command of artisan breads and pastry production. Today he channels that expertise into recipe development, team leadership and mentoring the next generation of bakers.",
     },
     {
-      img1: "/participants/Mohd Shahnawaz.png",
-      img2: "/participants/cafedelhiheights.png",
-      name: "Mohd. Shahnawaz",
-      desc: "A veteran pastry chef with 20+ years of culinary experience, Shahnawaz currently heads pastry operations at Café Delhi Heights. From luxury resorts to fine-dining kitchens, he's honed his skills in artisan baking, costing, and kitchen leadership. Known for precision and consistency, his legacy spans landmark names like Tivoli Gardens, The Samrat Hotel, and Country Inn.",
+      img1: "/participants/Hemant Kala.png",
+      img2: "/participants/radissonblu.png",
+      name: "Hemant Kala",
+      desc: "Chef Hemant Prasad Kala is Junior Sous Chef at Radisson Blu, Paschim Vihar, New Delhi, bringing over a decade of bakery and pastry experience across India and Canada. His journey runs through marquee kitchens including The Oberoi, The Leela Ambience Gurugram and Tandoori Flame in Canada. A consistent competitor, he earned Bronze at AAHAR 2025 and second place in Bread Display at the AHP Culinary Competition 2025.",
     },
     {
-      img1: "/participants/Sandeep.png",
-      img2: "/participants/claridges.png",
-      name: "Sandeep Kumar",
-      desc: "Currently Jr. Sous Chef at Hotel Claridges, Sandeep brings over 12 years of expertise in bakery and confectionery across top properties like Pullman, Taj Palace, and Shangri-La. Trained at Centaur Hotel and Grand New Delhi, he blends technical precision with operational excellence. Honored with the Master Baker Award 2024, he exemplifies consistency and culinary craft.",
+      img1: "/participants/Ritik Singh.png",
+      img2: "/participants/thelodhi.png",
+      name: "Ritik Singh",
+      desc: "A Chef de Partie for Bakery & Pastry at The Lodhi, New Delhi, Ritik Singh brings eight years of luxury-hospitality experience and a specialist's love for fermentation. He works fluently across sourdough, poolish, biga, viennoiserie and laminated doughs, having risen through multiple roles at The Lodhi and earlier stints at Sheraton Grand Palace Indore and The Grand Bhagwati. His consistency earned him Star Performer of the Year honours for both 2022-23 and 2023-24.",
     },
     {
-      img1: "/participants/Saurav Singh.png",
-      img2: "/participants/jwmarriott.png",
-      name: "Saurav Singh",
-      desc: "A dedicated bakery professional, Saurav Singh has steadily risen through roles at Hyatt, Oberoi, and now JW Marriott Kolkata. Known for his mastery in sourdoughs, viennoiserie, and dessert presentation, he blends technical skill with operational focus. With formal training and award recognition, he represents the new wave of precision-driven talent in India's bakery kitchens.",
+      img1: "/participants/Shiva Tomar.png",
+      img2: "/participants/radissongurugram.png",
+      name: "Shiva Tomar",
+      desc: "Chef Shiva Tomar is a Demi Chef de Partie whose bakery and confectionery career spans India and Central Africa, including roles with the Radisson Hotel Group, Crowne Plaza Gurgaon and Kin Marche in Kinshasa. Trained in food production at IHM Panipat, he is grounded in the fundamentals of dough mixing, proofing and precise baking control. He pairs that craft with a professional focus on HACCP, cost control and smooth bakery production.",
     },
     {
-      img1: "/participants/Siddhesh Undire.png",
-      img2: "/participants/itcmaratha.png",
-      name: "Siddhesh Undire",
-      desc: "A bakery specialist with experience at India's finest luxury hotels, Siddhesh has mastered buffet layouts, viennoiserie, and artisan presentations. Now at ITC Maratha, he's known for operational discipline and creativity—from brunch setups to chocolate sculptures. With prior roles at St. Regis and Grand Hyatt, he brings a refined, guest-centric approach to modern bakery execution.",
-    },
-    {
-      img1: "/participants/Pradum.png",
-      img2: "/participants/bakehousecomfort.png",
-      name: "Pradum Yadav",
-      desc: "Focused and fast-rising, Pradum Yadav brings 5+ years of core bakery experience across brands like Café Delhi Heights and Oasis Baklawa. With expertise in bread craftsmanship and a reputation for reliability, he's known for precision and consistency on the line. Energetic and eager to grow, he represents the next wave of committed talent in commercial baking.",
+      img1: "/participants/Apekshith R.png",
+      img2: "/participants/whitecaps.png",
+      name: "Apekshith R",
+      desc: "A rising pastry talent trained at Whitecaps International School of Pastry, Apekshith R blends formal French-pastry technique with three years of dedicated independent baking. He has worked across pastries, artisan breads and plated desserts with Chebel and Whitecaps, building a repertoire in viennoiserie, chocolate art and modern entremets. His promise is already on record as a Gold Medalist at the SICA Competition 2025.",
     },
   ];
 
@@ -114,8 +108,8 @@ const ParticipantCard = ({
   return (
     <div className="space-y-5">
       <div className="grid grid-cols-2">
-        <div className="from-primary to-white bg-gradient-to-b rounded-xl rounded-r-none">
-          <img src={img1} className="w-full h-full object-cover" alt="" />
+        <div className="aspect-square overflow-hidden from-primary to-white bg-gradient-to-b rounded-xl rounded-r-none">
+          <img src={img1} className="w-full h-full object-cover object-top" alt="" />
         </div>
         <div className="aspect-square rounded-xl bg-white !rounded-l-none">
           <img src={img2} className="w-full h-full object-cover rounded-xl !rounded-l-none" alt="" />

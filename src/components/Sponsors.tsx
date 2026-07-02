@@ -6,7 +6,7 @@ const Sponsors = () => {
   // Sponsors mirrored from pastryqueenindia-redesign (lib/site.ts SPONSORS) — same set, same order.
   const sponsors = [
     {
-      "img": "/sponsors/anupam.jpg",
+      "img": "/sponsors/anupam_logo.jpg",
       "link": "https://www.anupamroyals.com/",
       "mini": "Anupam Royals is India’s largest specialized manufacturer of hotel, banquet, and catering products — from Ready-to-Use “Instant” Banquet Interiors to Buffet Counters, Chafing Dishes and Dining Furniture.",
       "text": "Anupam Royals is India’s largest and specialized manufacturer of hotel, banquet, and catering products, including Ready-to-Use “Instant” Banquet Interiors, Buffet Counters, Chafing Dishes, Dining Furniture, and many other allied products. With a world-class manufacturing facility spread across 4 lakh sq. ft. in Haryana and an 87,500 sq. ft. display centre showcasing 17,500+ products in New Delhi, we have served 48,500+ customers across India and 18 countries. Over the last 25 years, our customers have reported booking growth of up to 400% and additional net profits exceeding ₹72,000 Crore."
