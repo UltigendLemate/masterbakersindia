@@ -77,6 +77,12 @@ const Participants = () => {
       name: "Apekshith R",
       desc: "A rising pastry talent trained at Whitecaps International School of Pastry, Apekshith R blends formal French-pastry technique with three years of dedicated independent baking. He has worked across pastries, artisan breads and plated desserts with Chebel and Whitecaps, building a repertoire in viennoiserie, chocolate art and modern entremets. His promise is already on record as a Gold Medalist at the SICA Competition 2025.",
     },
+    {
+      img1: "/participants/Khushbu Daiswal.png",
+      img2: "/participants/sunharvest.png",
+      name: "Khushbu Daiswal",
+      desc: "Khushbu Daiswal is the Co-Founder and Head Chef of Sunharvest Bakery, Delhi, where she leads bakery operations, product development and brand growth. Trained at the Institute of Bakery & Culinary Arts, she specializes in artisan baking, premium desserts, confectionery and eggless baking. Her achievements include medals at AAHAR, Kitchen Dangal, Reliance Smart Kitchen Super Star and BMK Youngest Chef 2025.",
+    },
   ];
 
   return (
