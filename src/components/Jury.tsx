@@ -14,6 +14,11 @@ const Jury = () => {
       "img": "/Sehaj Ghuman.png",
       "text": "Chef Sehaj Ghuman is the Executive Pastry Chef at the Academy of Pastry and Culinary Arts, Gurgaon. Trained with The Oberoi Hotels and Resorts, she was Gold Medallist of the Kitchen Management batch at OCLD. She represented India at Mondial Des Arts Sucre 2022, became India Pastry Champion in 2023, competed at Asian Pastry Cup 2024 and mentored India’s Junior Pastry Cup-winning team."
     },
+    {
+      "name": "Mohammed Nauman Qureshi",
+      "img": "/judge5.png",
+      "text": "Mohammed Nauman Qureshi is Head Pastry Chef at Paul Bakery India since April 2021. Over 15 years at premier patisseries like Theobroma Foods and L’Opéra, he led large‑scale production of signature cakes and macarons, ensuring consistent quality and innovation. A HACCP authority, he implemented rigorous safety protocols across multiple kitchens, achieving flawless audit results. As a mentor, he’s trained and developed dozens of pastry professionals. He holds a BSc in Hospitality & Tourism and a BA from the University of Delhi."
+    },
   ]
 
 
