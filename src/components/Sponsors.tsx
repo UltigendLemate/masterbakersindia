@@ -44,7 +44,7 @@ const Sponsors = () => {
     {
       "img": "/sponsors/dkg.png",
       "link": "https://dkgspl.co/",
-      "mini": "DKG Sales Private Limited, established in 1987 by Dilip Kumar Gandhi, is a premier Delhi-based manufacturer for the Indian hotel and restaurant industry.",
+      "mini": "DKG Sales Pvt Ltd. — Commercial Kitchen Equipment. Established in 1987 by Dilip Kumar Gandhi, it is a premier Delhi-based manufacturer for the Indian hotel and restaurant industry.",
       "text": "DKG Sales Private Limited, established in 1987 by Dilip Kumar Gandhi, is a premier Delhi-based manufacturer for the Indian hotel and restaurant industry. Specialising in high-quality cutlery, crockery, glassware and kitchen equipment, its state-of-the-art facility delivers premium quality, innovation and client-centric solutions that help chefs create exceptional culinary experiences."
     },
 
