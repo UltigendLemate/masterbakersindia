@@ -47,6 +47,12 @@ const Sponsors = () => {
       "mini": "DKG Sales Pvt Ltd. — Commercial Kitchen Equipment. Established in 1987 by Dilip Kumar Gandhi, it is a premier Delhi-based manufacturer for the Indian hotel and restaurant industry.",
       "text": "DKG Sales Private Limited, established in 1987 by Dilip Kumar Gandhi, is a premier Delhi-based manufacturer for the Indian hotel and restaurant industry. Specialising in high-quality cutlery, crockery, glassware and kitchen equipment, its state-of-the-art facility delivers premium quality, innovation and client-centric solutions that help chefs create exceptional culinary experiences."
     },
+    {
+      "img": "/sponsors/dr-smith.png",
+      "link": "https://www.drsmith.in/",
+      "mini": "Dr. Smith is the HoReCa food brand of Kay Sons Oils Pvt. Ltd., offering canned vegetables, fruits, olives, mushrooms, sauces, purees, pastes, pasta, breadcrumbs and beverage syrups — serving retail and professional kitchens across North India since 1999.",
+      "text": "Dr. Smith is the HoReCa food brand of Kay Sons Oils Pvt. Ltd., offering canned vegetables, fruits, olives, mushrooms, sauces, purees, pastes, pasta, breadcrumbs and beverage syrups. Established on a distribution network built since 1999, the brand serves retail and professional kitchens through reliable sourcing, foodservice expertise, warehousing and regional distribution across North India, with convenient, ready-to-use products for chefs."
+    },
 
     // ===== Removed to match the redesign's set — uncomment to restore =====
     // {
