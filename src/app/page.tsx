@@ -220,19 +220,19 @@ export default function Home() {
           </div>
         </div>
       </main>
-      {/* <div className="md:h-screen w-full mt-48 md:mt-0">
+      <div className="md:h-screen w-full mt-48 md:mt-0">
         <h3 className="text-center text-2xl md:text-4xl py-10 font-semibold">
-          Master Bakers Challenge India 2024 Recap
+          Previous Event
         </h3>
         <iframe
           className="mx-auto md:h-[70%] md:w-[70%] w-11/12 min-h-60"
-          src="https://www.youtube.com/embed/7zd0vMOPPB0?si=5IKsApoYTl_6B0Ua"
+          src="https://www.youtube.com/embed/xAcDcUqTkDo"
           title="YouTube video player"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
           referrerPolicy="strict-origin-when-cross-origin"
           allowFullScreen
         ></iframe>
-      </div> */}
+      </div>
       <section className="w-full my-12 pt-6">
         <h3 className="z-20 mx-auto text-4xl px-3 md:text-7xl text-primary mt-12 mb-6 text-center heading ">
           Winner 2025 - Siddhesh Undire, ITC Maratha, Mumbai
