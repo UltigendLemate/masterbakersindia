@@ -19,7 +19,7 @@ import {
 const JuryCard = (props: Props) => {
   return (
     <div className="md:flex w-full shadow-md gap-5 justify-center items-center shadow-primary/10">
-      <div className="from-primary to-white md:w-[40%] bg-gradient-to-b rounded-xl">
+      <div className="from-primary to-white md:w-[40%] bg-gradient-to-b rounded-xl aspect-[2/3] overflow-hidden">
         <img src={props.img} className="w-full h-full object-cover" alt="" />
       </div>
 

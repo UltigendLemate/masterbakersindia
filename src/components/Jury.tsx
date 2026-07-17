@@ -19,6 +19,11 @@ const Jury = () => {
       "img": "/judge5.png",
       "text": "Mohammed Nauman Qureshi is Head Pastry Chef at Paul Bakery India since April 2021. Over 15 years at premier patisseries like Theobroma Foods and L’Opéra, he led large‑scale production of signature cakes and macarons, ensuring consistent quality and innovation. A HACCP authority, he implemented rigorous safety protocols across multiple kitchens, achieving flawless audit results. As a mentor, he’s trained and developed dozens of pastry professionals. He holds a BSc in Hospitality & Tourism and a BA from the University of Delhi."
     },
+    {
+      "name": "Robin Batra",
+      "img": "/Robin Batra.jpg",
+      "text": "Robin Batra is an accomplished Executive Chef with over 23 years of experience in luxury hospitality, leading culinary operations across premier hotel brands including The Oberoi Hotels & Resorts and Trident Hotels. A Gold Medallist from The Oberoi Centre of Learning and Development (OCLD), he is recognized for his expertise in restaurant conceptualization, menu innovation, operational excellence, and team leadership. Chef Robin has successfully led several high-profile hotel openings and restaurant transformations, including the launch of Ziya with Michelin-starred Chef Vineet Bhatia, Madam Chow, and Lord Vesper at The Oberoi, Gurgaon. His international training at Michelin-starred restaurants in France and Hong Kong, along with his Le Cordon Bleu certification and FSSAI Food Safety Trainer certification, reflects his commitment to world-class culinary standards and continuous innovation."
+    },
   ]
 
 
