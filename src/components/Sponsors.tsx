@@ -53,6 +53,12 @@ const Sponsors = () => {
       "mini": "Dr. Smith is the HoReCa food brand of Kay Sons Oils Pvt. Ltd., offering canned vegetables, fruits, olives, mushrooms, sauces, purees, pastes, pasta, breadcrumbs and beverage syrups — serving retail and professional kitchens across North India since 1999.",
       "text": "Dr. Smith is the HoReCa food brand of Kay Sons Oils Pvt. Ltd., offering canned vegetables, fruits, olives, mushrooms, sauces, purees, pastes, pasta, breadcrumbs and beverage syrups. Established on a distribution network built since 1999, the brand serves retail and professional kitchens through reliable sourcing, foodservice expertise, warehousing and regional distribution across North India, with convenient, ready-to-use products for chefs."
     },
+    {
+      "img": "/sponsors/kenford.jpeg",
+      "link": "https://kenford.in",
+      "mini": "Since 2009, Kenford has been redefining food service with its premium range of food-grade polycarbonate and melamine products — proudly made in India with ISO 9001, FDA-USA and NSF approvals.",
+      "text": "Since 2009, Kenford has been redefining food service with its premium range of food-grade polycarbonate and melamine products. Proudly made in India, the brand combines innovative design, exceptional durability, and international quality standards, backed by ISO 9001 certification and FDA-USA and NSF approvals. From cafeterias to leading hospitality establishments, Kenford's lightweight, unbreakable, stain-resistant, and microwave-safe solutions deliver the perfect balance of performance, safety, and value. Driven by excellence and customer trust, Kenford continues to set benchmarks in quality while shaping the future of modern hospitality and food service."
+    },
 
     // ===== Removed to match the redesign's set — uncomment to restore =====
     // {
