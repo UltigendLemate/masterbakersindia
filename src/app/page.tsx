@@ -88,10 +88,12 @@ export default function Home() {
             <p className="text-xl text-primary font-medium -mt-6">Third Edition</p>
           </div>
           <div className="text-center md:text-2xl md:-mt-5">
-            {/* <div className="text-center">
-              <img src="sigma.png" className="h-20 mx-auto w-auto bg-whit p-2" />
+            <div className="text-center">
+              <a href="https://www.kolbcn.com" target="_blank" rel="noreferrer">
+                <img src="/klob.jpg" className="h-36 mx-auto w-auto bg-whit p-2" alt="Kolb" />
+              </a>
               <span className="text-base my-1 font-semibold">Presents</span>
-            </div> */}
+            </div>
             <h1 className="heading md:text-6xl text-4xl text-primary">
               Master Bakers <br /> Challenge India 2026
             </h1>

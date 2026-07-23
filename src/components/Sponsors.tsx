@@ -6,6 +6,12 @@ const Sponsors = () => {
   // Sponsors mirrored from pastryqueenindia-redesign (lib/site.ts SPONSORS) — same set, same order.
   const sponsors = [
     {
+      "img": "/sponsors/klob.jpg",
+      "link": "https://www.kolbcn.com",
+      "mini": "Kolb is a Swiss-origin professional baking equipment brand founded in 1935 by master baker Ernst Kolb, offering deck ovens, convection ovens, rotary ovens, pizza ovens, proofers and open-kitchen baking solutions.",
+      "text": "Kolb is a Swiss-origin professional baking equipment brand founded in 1935 by master baker Ernst Kolb. The brand offers deck ovens, convection ovens, rotary ovens, pizza ovens, proofers and open-kitchen baking solutions for bakeries, hotels, cafés, restaurants and foodservice businesses. Known for reliable baking results, user-friendly operation and energy-conscious design, Kolb supports professional kitchens with equipment built for consistency and daily performance. In India, Kolb is represented and distributed by DKG Sales Pvt. Ltd."
+    },
+    {
       "img": "/sponsors/anupam_logo.jpg",
       "link": "https://www.anupamroyals.com/",
       "mini": "Anupam Royals is India’s largest specialized manufacturer of hotel, banquet, and catering products — from Ready-to-Use “Instant” Banquet Interiors to Buffet Counters, Chafing Dishes and Dining Furniture.",
