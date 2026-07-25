@@ -72,10 +72,10 @@ const Participants = () => {
       desc: "Chef Shiva Tomar is a Demi Chef de Partie whose bakery and confectionery career spans India and Central Africa, including roles with the Radisson Hotel Group, Crowne Plaza Gurgaon and Kin Marche in Kinshasa. Trained in food production at IHM Panipat, he is grounded in the fundamentals of dough mixing, proofing and precise baking control. He pairs that craft with a professional focus on HACCP, cost control and smooth bakery production.",
     },
     {
-      img1: "/participants/Apekshith R.png",
-      img2: "/participants/whitecaps.png",
-      name: "Apekshith R",
-      desc: "A rising pastry talent trained at Whitecaps International School of Pastry, Apekshith R blends formal French-pastry technique with three years of dedicated independent baking. He has worked across pastries, artisan breads and plated desserts with Chebel and Whitecaps, building a repertoire in viennoiserie, chocolate art and modern entremets. His promise is already on record as a Gold Medalist at the SICA Competition 2025.",
+      img1: "/participants/Sameer.jpg",
+      img2: "/participants/cafedelhiheights.png",
+      name: "Sameer",
+      desc: "Sameer is an aspiring bakery professional with work experience in Delhi's hospitality and bakery sector. He has worked as Commis III with Chef Bakers, Patel Nagar, and Café Delhi Heights, Naraina, gaining practical exposure to kitchen operations, bakery production and team-based service environments. Disciplined, hardworking and eager to grow, he aims to build his culinary career and progress towards an Executive Chef role.",
     },
     {
       img1: "/participants/Khushbu Daiswal.png",
