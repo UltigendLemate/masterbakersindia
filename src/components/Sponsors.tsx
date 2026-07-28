@@ -65,6 +65,11 @@ const Sponsors = () => {
       "mini": "Since 2009, Kenford has been redefining food service with its premium range of food-grade polycarbonate and melamine products — proudly made in India with ISO 9001, FDA-USA and NSF approvals.",
       "text": "Since 2009, Kenford has been redefining food service with its premium range of food-grade polycarbonate and melamine products. Proudly made in India, the brand combines innovative design, exceptional durability, and international quality standards, backed by ISO 9001 certification and FDA-USA and NSF approvals. From cafeterias to leading hospitality establishments, Kenford's lightweight, unbreakable, stain-resistant, and microwave-safe solutions deliver the perfect balance of performance, safety, and value. Driven by excellence and customer trust, Kenford continues to set benchmarks in quality while shaping the future of modern hospitality and food service."
     },
+    {
+      "img": "/sponsors/ptc-punjabi.png",
+      "mini": "PTC Punjabi is our official telecast partner, bringing the Master Bakers Challenge to households across Punjab and beyond.",
+      "text": "PTC Punjabi is our official telecast partner, bringing the Master Bakers Challenge to households across Punjab and beyond."
+    },
 
     // ===== Removed to match the redesign's set — uncomment to restore =====
     // {
