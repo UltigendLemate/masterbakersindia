@@ -67,8 +67,9 @@ const Sponsors = () => {
     },
     {
       "img": "/sponsors/ptc-punjabi.png",
-      "mini": "PTC Punjabi is our official telecast partner, bringing the Master Bakers Challenge to households across Punjab and beyond.",
-      "text": "PTC Punjabi is our official telecast partner, bringing the Master Bakers Challenge to households across Punjab and beyond."
+      "link": "https://www.ptcpunjabi.co.in/",
+      "mini": "PTC Punjabi is our official media partner, bringing the Master Bakers Challenge to households across Punjab and beyond.",
+      "text": "PTC Punjabi is our official media partner, bringing the Master Bakers Challenge to households across Punjab and beyond."
     },
 
     // ===== Removed to match the redesign's set — uncomment to restore =====
