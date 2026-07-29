@@ -99,9 +99,17 @@ export default function Home() {
             </h1>
             <h4 className="font-bold  mt-2">7th August 2026</h4>
             <h4 className="">India Expo Centre & Mart, Greater Noida, NCR</h4>
-            {/* <div className="text-lg mt-5 font-semibold">
-              Powered By <img src="dkg.jpg" className="h-10 w-auto inline ml-3" alt="" />
-            </div> */}
+            <div className="text-center mt-5">
+              <span className="text-base my-1 font-semibold block">Powered By</span>
+              <div className="flex items-center justify-center flex-wrap gap-6 mt-2">
+                <a href="https://dkgspl.co/" target="_blank" rel="noreferrer">
+                  <img src="/dkg.jpg" className="h-[6.5rem] w-auto bg-white p-2" alt="DKG Sales" />
+                </a>
+                <a href="https://www.uscranberries.com" target="_blank" rel="noreferrer">
+                  <img src="/sponsors/cranberry.png" className="h-[6.5rem] w-auto bg-white p-2" alt="US Cranberries" />
+                </a>
+              </div>
+            </div>
           </div>
         </div>
 
