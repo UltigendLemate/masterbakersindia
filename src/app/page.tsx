@@ -245,33 +245,15 @@ export default function Home() {
       </div>
       <section className="w-full my-12 pt-6">
         <h3 className="z-20 mx-auto text-4xl px-3 md:text-7xl text-primary mt-12 mb-6 text-center heading ">
-          Winner 2025 - Siddhesh Undire, ITC Maratha, Mumbai
+          Winner 2026 - Chef Faryaz Nozer Engineer
         </h3>
-        <div className="md:mx-16 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 px-6">
-          <div className="relative w-full aspect-[16/9] overflow-hidden rounded-lg">
+        <div className="md:mx-16 flex justify-center px-6">
+          <div className="relative w-full max-w-3xl aspect-[16/9] overflow-hidden rounded-lg">
             <Image
-              src="/winners/winner-02.jpg"
-              alt="JW Marriott Winner 2026 - Photo 1"
+              src="/winners/winner-2026-faryaz-nozer-engineer.jpg"
+              alt="Master Bakers Challenge India 2026 Winner - Chef Faryaz Nozer Engineer"
               fill
-              sizes="(min-width: 768px) 33vw, 100vw"
-              className="object-cover"
-            />
-          </div>
-          <div className="relative w-full aspect-[16/9] overflow-hidden rounded-lg">
-            <Image
-              src="/winners/winner-01.jpg"
-              alt="JW Marriott Winner 2026 - Photo 2"
-              fill
-              sizes="(min-width: 768px) 33vw, 100vw"
-              className="object-cover"
-            />
-          </div>
-          <div className="relative w-full aspect-[16/9] overflow-hidden rounded-lg">
-            <Image
-              src="/winners/winner-03.jpg"
-              alt="JW Marriott Winner 2026 - Photo 3"
-              fill
-              sizes="(min-width: 768px) 33vw, 100vw"
+              sizes="(min-width: 768px) 50vw, 100vw"
               className="object-cover"
             />
           </div>
