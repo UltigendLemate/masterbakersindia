@@ -19,7 +19,7 @@ import Participants from "@/components/Participants";
 export default function Home() {
   return (
     <>
-      <main className="flex h-screen flex-col items-center justify-between">
+      <main className="flex min-h-screen flex-col items-center justify-between">
         <nav className="flex container justify-between items-center md:text-2xl pt-4">
           <Dialog>
             <DialogTrigger asChild>
@@ -230,7 +230,7 @@ export default function Home() {
           </div>
         </div>
       </main>
-      <div className="md:h-screen w-full mt-48 md:mt-0">
+      <div className="md:h-screen w-full">
         <h3 className="text-center text-2xl md:text-4xl py-10 font-semibold">
           Previous Event
         </h3>
